@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2.1</string>
+    <string name="moj_text">" Vive l'empereur"</string>
+    <string name="moj_text_2">échapper</string>
+    <string name="moj_text_3">Vive la révolution</string>
+    <string name="moj_text_4">Napoléon était un homme bon</string>
+    <string name="moj_text_5">Where\'s my baguette</string>
+</resources>

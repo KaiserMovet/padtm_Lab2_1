@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lab2.1</string>
+    <string name="moj_text">All hail to the emperor</string>
+    <string name="moj_text_2">Let\'s fight</string>
+    <string name="moj_text_3">Long live the revolution</string>
+    <string name="moj_text_4">Napoleon was a bad man</string>
+    <string name="moj_text_5">Where\'s my tea</string>
 </resources>

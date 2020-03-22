@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2.1</string>
+    <string name="moj_text">Niech żyje cesarz</string>
+    <string name="moj_text_2">Walczmy</string>
+    <string name="moj_text_3">Kolejni...</string>
+    <string name="moj_text_4">Napoleon był dobrym człowiekiem</string>
+    <string name="moj_text_5">Gdzie moje pierogi</string>
+</resources>
